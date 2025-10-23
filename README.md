@@ -36,7 +36,7 @@ Tied if both choose the same move.
 
 1. **Run the script:**
    ```bash
-   python rock_paper_scissors.py
+   python rps.py
    ```
 2. Enter `y` to start the game.
 3. Choose the number of rounds to play.
