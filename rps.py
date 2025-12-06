@@ -100,4 +100,4 @@ while True:
     game_end()
     break
   else:
-    print("Enter a Valid Input y or n.")
+    print("Enter a valid Input y or n.")
